@@ -1,0 +1,4 @@
+int id takt_btn 0x7f030000
+int id takt_fps 0x7f030001
+int layout second 0x7f020000
+int layout stage 0x7f020001
